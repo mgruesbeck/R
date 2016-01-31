@@ -5,4 +5,4 @@
 
 #### Second area graph 
 ![alt tag](https://github.com/mgruesbeck/learn-R-for-statistical-computing/blob/master/2-datestamps/time_series.svg)
-
+<img src="https://github.com/mgruesbeck/learn-R-for-statistical-computing/blob/master/2-datestamps/time_series.svg">
