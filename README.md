@@ -1,8 +1,8 @@
-# Learning R for statistical computing
+# Learning R for Statistical Computing
 
-### First scatterplot
+#### First scatter plot
 ![alt tag](https://github.com/mgruesbeck/learn-R-for-statistical-computing/blob/master/1-scatterplot/scatterplot.png)
 
-### Second area graph 
+#### Second area graph 
 ![alt tag](https://github.com/mgruesbeck/learn-R-for-statistical-computing/blob/master/2-datestamps/time_series.svg)
 
