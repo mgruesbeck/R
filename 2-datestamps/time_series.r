@@ -14,6 +14,9 @@ data$timestamp_obj <- as.POSIXct(data$timestamp, format="%Y-%m-%d %H:%M:%S")
 # create svg
 svg('time_series.svg', width=8, height=5)
 
+# create png
+png('time_series.png', width=400, height=400)
+
 # use ggplot
 ggplot(data, aes(x=timestamp_obj,y=delay)) + geom_area() + 
     theme_economist() + 
