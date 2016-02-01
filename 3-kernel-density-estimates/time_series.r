@@ -12,7 +12,7 @@ data <- read.csv('time_series.csv')
 data$timestamp_obj <- as.POSIXct(data$timestamp, format="%Y-%m-%d %H:%M:%S")
 
 # create png
-png('time_series_kde.png', width=400, height=400)
+png('time_series_kde.png', width=800, height=800)
 
 # create svg
 svg('time_series_kde.svg', width=8, height=5)

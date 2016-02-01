@@ -9,7 +9,7 @@ library(ggthemes)
 data <- read.csv('scatterplot.csv')
 
 # create png
-png('scatterplot.png', width=400, height=400)
+png('scatterplot.png', width=800, height=800)
 
 # use ggplot
 ggplot(data, aes(x=x,y=y)) + geom_point() + 
