@@ -1,6 +1,5 @@
-# Learning R for Statistical Computing
-A rough readme documenting my journey into R. Charts 1 - 5 made by following [this
-guide](https://gist.github.com/asimihsan/6937989).
+# Statistical computing with R
+Documenting my journey into R.
 
 #### 1. Scatter plot
 ![alt tag](https://github.com/mgruesbeck/learn-R-for-statistical-computing/blob/master/1-scatter-plot/scatterplot.png)
